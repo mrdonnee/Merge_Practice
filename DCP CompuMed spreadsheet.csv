@@ -1,0 +1,79 @@
+Exam ID,Patient ID,"Patient Last, First",Age,DOB,Received Time,Study Time,Completed Time,Over Read,Physician<br />Last Name,Physician<br />First Name,Gender,Notes
+389081,DCP001,"EV, EV",38,10/11/1980,09/07/18 09:31,08/18/18 02:19,09/07/18 16:27,"Normal sinus rhythm
+Within normal limits", Shiroff,Robert,F,
+389107,DCP002,"RF, RF",52,3/24/1966,09/07/18 09:31,08/18/18 15:43,09/07/18 17:24,"Normal sinus rhythm
+Slow R wave V1-3
+May be normal variant.", Shiroff,Robert,M,
+389106,DCP002,"RF, RF",52,3/24/1966,09/07/18 09:31,08/18/18 10:42,09/07/18 17:00,"Normal sinus rhythm
+Slow R wave progression V1-3
+May be normal variant", Shiroff,Robert,M,
+389088,DCP003,"JE, JE",46,1/5/1972,09/07/18 09:31,08/18/18 10:46,09/07/18 16:49,"Normal sinus rhythm
+Borderline low voltage standard leads
+Otherwise within normal limits", Shiroff,Robert,F,
+389109,DCP004,"RK, RK",36,12/2/1981,09/07/18 09:31,08/18/18 11:01,09/07/18 16:29,"Normal sinus rhythm
+Intraventricular conduction delay
+Non diagnostic ST-T abnormalities", Shiroff,Robert,F,
+389094,DCP005,"JT, JT",20,10/7/1998,09/07/18 09:31,08/18/18 11:24,09/07/18 16:53,"Normal sinus rhythm
+Probable limb lead reversal- recommend repeat tracing
+Normal sinus rhythm
+Precordial leads normal.", Shiroff,Robert,F,
+389084,DCP006,"JA, JA",22,9/15/1996,09/07/18 09:31,08/18/18 14:23,09/07/18 16:42,"Normal sinus rhythm
+Minor intraventricular conduction delay
+Probably within normal limits", Shiroff,Robert,F,
+389069,DCP007,"BG, BG",22,2/9/1996,09/07/18 09:31,08/18/18 12:51,09/07/18 16:39,"Normal sinus rhythm
+Slight ST elevation compatible with early repolarization- a normal variant
+Within normal limits.", Shiroff,Robert,M,
+389067,DCP008,"AN, AN",28,7/6/1990,09/07/18 09:31,08/18/18 11:33,09/07/18 16:47,"Normal sinus rhythm
+Within normal limits", Shiroff,Robert,F,
+389085,DCP010,"JB, JB",35,5/25/1983,09/07/18 09:31,08/18/18 11:37,09/07/18 16:19,"Normal sinus rhythm
+Within normal limits", Shiroff,Robert,M,
+389079,DCP011,"DR, DR",22,7/25/1996,09/07/18 09:31,08/18/18 02:27,09/07/18 16:48,"Normal sinus rhythm
+Low voltage standard leads
+Minor Non diagnostic ST-T abnormalities.", Shiroff,Robert,F,
+389112,DCP012,"TL, TL",23,2/2/1995,09/07/18 09:31,08/18/18 12:14,09/07/18 17:26,"Normal sinus rhythm
+Incomplete tracing- V2 not recorded
+Probably within normal limits", Shiroff,Robert,F,
+389100,DCP013,"NL, NL",38,9/18/1980,09/07/18 09:31,08/18/18 14:28,09/07/18 17:04,"Normal sinus rhythm
+Within normal limits", Shiroff,Robert,F,
+389095,DCP014,"JV, JV",29,12/22/1988,09/07/18 09:31,08/18/18 14:29,09/07/18 17:17,"Sinus bradycardia- rate 52
+Poor R wave progression V1-3
+Cannot exclude old Anteroseptal infarct
+Diffuse Non diagnostic ST-T abnormalities", Shiroff,Robert,F,
+389113,DCP015,"VM, VM",29,11/8/1988,09/07/18 09:31,08/18/18 12:26,09/07/18 16:59,"Normal sinus rhythm with sinus arrhythmia
+ST elevation with peaked T waves in the anterior precordial leads- Clinical correlation required
+Probably normal variant for age.", Shiroff,Robert,M,
+389103,DCP016,"PZ, PZ",24,8/21/1994,09/07/18 09:31,08/18/18 12:40,09/07/18 17:22,"Marked sinus bradycardia- rate 34
+Intraventricular conduction delay
+Clinical correlation required", Shiroff,Robert,M,
+389083,DCP017,"HB, HB",28,3/18/1990,09/07/18 09:31,08/18/18 14:30,09/07/18 16:40,"Normal sinus rhythm
+Minor intraventricular conduction delay
+Otherwise within normal limits", Shiroff,Robert,M,
+389098,DCP018,"MB, MB",24,6/8/1994,09/07/18 09:31,08/18/18 13:07,09/07/18 17:06,"Normal sinus rhythm
+Within normal limits", Shiroff,Robert,F,
+389071,DCP019,"BY, BY",38,12/17/1979,09/07/18 09:31,08/18/18 01:17,09/07/18 16:31,"Normal sinus rhythm
+Poor R wave progression V1-3
+Non diagnostic ST-T abnormalities in the anterior precordial leads
+Clinical correlation required", Shiroff,Robert,F,
+389114,DCP020,"VP, VP",43,8/2/1975,09/07/18 09:31,08/18/18 14:44,09/07/18 17:09,"Normal sinus rhythm
+Slight ST elevation in the anterior precordial leads- may be a normal variant.", Shiroff,Robert,M,
+389074,DCP021,"CP, CP",46,5/19/1972,09/07/18 09:31,08/18/18 01:42,09/07/18 16:45,"Normal sinus rhythm
+Minor intraventricular conduction delay
+Probably within normal limits", Shiroff,Robert,M,
+389072,DCP022,"CA, CA",29,8/2/1989,09/07/18 09:31,08/18/18 02:33,09/07/18 16:46,"Normal sinus rhythm
+Within normal limits", Shiroff,Robert,F,
+389082,DCP023,"EV, EV",41,10/3/1977,09/07/18 09:31,08/18/18 02:24,09/07/18 16:18,"Normal sinus rhythm
+Diffuse minor Non diagnostic ST-T abnormalities.", Shiroff,Robert,M,
+389090,DCP024,"JEH, JEH",36,7/23/1982,09/07/18 09:31,08/18/18 14:21,09/07/18 16:52,"Normal sinus rhythm
+Slow R wave progression V1-3
+Minor Non diagnostic ST-T abnormalities in the anterior precordial leads- may be normal variant for age and sex.", Shiroff,Robert,F,
+389111,DCP025,"SS, SS",34,8/15/1984,09/07/18 09:31,08/18/18 14:35,09/07/18 17:14,"Normal sinus rhythm
+Within normal limits", Shiroff,Robert,M,
+389097,DCP026,"LV, LV",31,1/23/1987,09/07/18 09:31,08/18/18 14:43,09/07/18 17:19,"Normal sinus rhythm
+Within normal limits", Shiroff,Robert,F,
+389066,DCP027,"AM, AM",37,6/17/1981,09/07/18 09:31,08/18/18 02:55,09/07/18 16:15,"Normal sinus rhythm
+Voltage criteria for left ventricular hypertrophy in the standard leads
+Diffuse Non diagnostic ST-T abnormalities", Shiroff,Robert,F,
+389075,DCP029,"DF, DF",47,4/7/1971,09/07/18 09:31,08/18/18 03:04,09/07/18 16:43,"Normal sinus rhythm
+Within normal limits", Shiroff,Robert,M,
+389099,DCP030,"NC, NC",26,2/26/1992,09/07/18 09:31,08/18/18 15:17,09/07/18 17:25,"Normal sinus rhythm
+Minor Non diagnostic ST-T abnormalities in the anterior precordial leads- probably normal variant for age and sex", Shiroff,Robert,F,
