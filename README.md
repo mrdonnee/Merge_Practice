@@ -1,6 +1,5 @@
 # Merge_Practice
-<<HEAD
-This for Linda to practice merge function through GitBash.
+
 =======
 
 *07-10-2019 - first comment on this file.
@@ -13,7 +12,9 @@ This for Linda to practice merge function through GitBash.
 
 *07-17-2019 - Linda adding jupyter file for DCP_CompuMed_Spreadsheet.
 
-
+*07-19-2019 - Linda finished cleaning data and tried plot from data.
+ Couldn't plot more coz data is not good enough to plot.
+ Donny please advice me some more ideas to plot. XD
 
 *Project*
 
